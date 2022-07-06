@@ -8,6 +8,7 @@
 4. [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, Clark et al., 2020](https://arxiv.org/pdf/2003.10555.pdf)
 ***
 ## Computer Vision
+1. [ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky et al., 2012](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 ***
 ## Regularization
 ***
