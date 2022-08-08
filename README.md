@@ -9,6 +9,9 @@
 ***
 ## Computer Vision
 1. [ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky et al., 2012](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+2. [Going Deeper with Convolutions, Szegedy et al., 15' CVPR](https://arxiv.org/pdf/1409.4842.pdf)
+3. [Very Deep Convolutional Networks for Large-Scale Image Recognition, Simonyan et al., 15' ICLR](https://arxiv.org/pdf/1409.1556.pdf)
 ***
 ## Regularization
+TODO
 ***
